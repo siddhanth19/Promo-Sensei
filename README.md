@@ -77,7 +77,7 @@ Use these in any Slack channel or DM:
 
 ### Output:
 
-![Alt text](_promosensei search command.png)
+![Alt text] (_promosensei search command.png)
 
 ---
 
