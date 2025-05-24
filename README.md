@@ -110,11 +110,11 @@ Use these in any Slack channel or DM:
 
 ```text
 - playwright
-- slack_bolt
+- slack-bolt
 - langchain
-- langchain_community
-- langchain_groq
-- langchain_huggingface
+- langchain-community
+- langchain-groq
+- langchain-huggingface
 - faiss-cpu
 - sentence-transformers
 - python-dotenv
@@ -127,7 +127,3 @@ Use these in any Slack channel or DM:
 [View Demo on Google Drive](https://drive.google.com/drive/folders/1Wei_LkITfjArXu8tGjhDdmIAmmflziox?usp=sharing)
 
 ---
-
-## 🗓️ Submission Deadline
-
-**May 23, 2025** — Final internship project submission
