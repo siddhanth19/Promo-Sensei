@@ -77,7 +77,7 @@ Use these in any Slack channel or DM:
 
 ### Output:
 
-![Alt text] (Output.png)
+![image](https://github.com/user-attachments/assets/c52a374e-0951-45c3-aa76-2b095e443497)
 
 ---
 
