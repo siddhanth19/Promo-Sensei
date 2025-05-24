@@ -1,0 +1,25 @@
+[project]
+name = "promo-sensei"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "playwright",
+  "beautifulsoup4",
+  "langchain",
+  "langchain-community",
+  "langchain-core",
+  "langchain-groq",
+  "transformers",
+  "langchain-huggingface",
+  "faiss-cpu",                     
+  "sentence-transformers",
+  "slack_bolt",                    
+  "python-dotenv",                 # for managing API keys
+  "pydantic",
+  "httpx",
+  "tqdm",                          # for progress bars in ingestion
+  "streamlit",                     # optional chatbot UI                      
+  "uvicorn"
+]
